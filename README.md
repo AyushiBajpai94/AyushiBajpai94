@@ -15,6 +15,8 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushibajpai94" alt="ayushibajpai94" /></a> </p>
+<br/>   
+<br/>  
 
 - 🌱 I’m currently learning **Mern and Redux**
 
@@ -25,7 +27,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/15EGpx-HiF-bgij0w4sAiSFxLPwg7dnb_/view?usp=share_link](https://drive.google.com/file/d/15EGpx-HiF-bgij0w4sAiSFxLPwg7dnb_/view?usp=share_link)
 
 
-
+<br/>   
+<br/>  
+   
 <p width="90%" m='auto'><img width='100%'
         src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p> 
 
@@ -54,6 +58,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushibajpai94&show_icons=true&locale=en" alt="ayushibajpai94" /></p>
 
+  
+<br/>  
 <a href="https://ayushibajpai94.github.io/" target="text-decoration:none"><img height="30" align="left" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
    
 
