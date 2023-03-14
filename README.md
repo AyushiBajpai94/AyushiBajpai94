@@ -54,8 +54,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushibajpai94&show_icons=true&locale=en" alt="ayushibajpai94" /></p>
-<div align-items ="center">
-<a href="https://ayushibajpai94.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
-   </div>
+
+<a href="https://ayushibajpai94.github.io/" target="text-decoration:none"><img height="30" align="left" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+   
 
 <!-- My portfolio link --- [Portfolio](https://ayushibajpai94.github.io/) -->
