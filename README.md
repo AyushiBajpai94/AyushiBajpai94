@@ -7,9 +7,9 @@
    
    <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47nvsg4mfrefagl3hob3hjo66f16bgdiwtz4qx0aa2&rid=giphy.gif&ct=g" width="100%" margin="auto" />
 
-   
-     
-
+<br/>   
+<br/>  
+<br/>
 
 
 
