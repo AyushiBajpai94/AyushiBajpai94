@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN, who likes to do experiments and always ready for learning new things 😃. </h3>    
    
    
-   <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47nvsg4mfrefagl3hob3hjo66f16bgdiwtz4qx0aa2&rid=giphy.gif&ct=g" width="100%" margin-bottom="20%" border='3px solid red' />
+   <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47nvsg4mfrefagl3hob3hjo66f16bgdiwtz4qx0aa2&rid=giphy.gif&ct=g" width="100%" margin="auto" />
 
    
      
