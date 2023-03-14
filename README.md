@@ -5,7 +5,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayushi Bajpai</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<br />
+<h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN, who likes to do experiments and always ready for learning new things 😃. </h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushibajpai94" alt="ayushibajpai94" /></a> </p>
