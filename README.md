@@ -5,11 +5,10 @@
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN, who likes to do experiments and always ready for learning new things 😃. </h3>    
    
    
-<p width="90%" m='auto'><img width='100%'
-        src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p> 
+   <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47nvsg4mfrefagl3hob3hjo66f16bgdiwtz4qx0aa2&rid=giphy.gif&ct=g" width="100%" margin="0 auto" />
+
    
-        <img src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966" width="50%" margin="0 auto"/>
-      </div>
+     
 
 
 
