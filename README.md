@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
    
 <h1 align="center">Hi 👋, I'm Ayushi Bajpai</h1>
 <!-- <br /> -->
