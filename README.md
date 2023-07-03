@@ -18,8 +18,6 @@
 <br/>   
 <br/>  
 
-- 🌱 I’m currently learning **Mern and Redux**
-
 - 👨‍💻 All of my projects are available at [https://ayushibajpai94.github.io/](https://ayushibajpai94.github.io/)
 
 - 📫 How to reach me **ayushi.bajpai16@gmail.com**
