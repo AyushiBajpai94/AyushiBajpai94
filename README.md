@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ayushi.bajpai16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15EGpx-HiF-bgij0w4sAiSFxLPwg7dnb_/view?usp=share_link](https://drive.google.com/file/d/15EGpx-HiF-bgij0w4sAiSFxLPwg7dnb_/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15EGpx-HiF-bgij0w4sAiSFxLPwg7dnb_/view?usp=share_link](https://drive.google.com/file/d/1_r-wN_giN0Ea69o1yR_NWW2y-z1fxhEu/view?usp=sharing)
 
 
 <br/>   
